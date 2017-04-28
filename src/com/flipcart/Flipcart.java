@@ -8,5 +8,6 @@ public class Flipcart {
 		FlipcartTestPage fp = new FlipcartTestPage();
 		fp.launchPage(null);
 		fp.getDetails();
+		fp.getText();
 	}
 }
