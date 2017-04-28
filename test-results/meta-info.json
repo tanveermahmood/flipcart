@@ -1,0 +1,49 @@
+{
+  "reports": [
+    {
+      "name": "QAS Demo",
+      "dir": "test-results/07_Apr_2017_04_09_PM/json",
+      "startTime": 1491561622847
+    },
+    {
+      "name": "Default suite",
+      "dir": "test-results/Fri7Apr17_1239PM",
+      "startTime": 1491548954523
+    },
+    {
+      "name": "Default suite",
+      "dir": "test-results/Fri7Apr17_1236PM",
+      "startTime": 1491548764558
+    },
+    {
+      "name": "Default suite",
+      "dir": "test-results/Fri7Apr17_1234PM",
+      "startTime": 1491548676847
+    },
+    {
+      "name": "Default suite",
+      "dir": "test-results/Fri7Apr17_1232PM",
+      "startTime": 1491548544344
+    },
+    {
+      "name": "Default suite",
+      "dir": "test-results/Fri7Apr17_1201PM",
+      "startTime": 1491546669922
+    },
+    {
+      "name": "Default suite",
+      "dir": "test-results/Fri7Apr17_1155AM",
+      "startTime": 1491546321782
+    },
+    {
+      "name": "Default suite",
+      "dir": "test-results/Fri7Apr17_1154AM",
+      "startTime": 1491546267195
+    },
+    {
+      "name": "Default suite",
+      "dir": "test-results/Fri7Apr17_1151AM",
+      "startTime": 1491546084878
+    }
+  ]
+}

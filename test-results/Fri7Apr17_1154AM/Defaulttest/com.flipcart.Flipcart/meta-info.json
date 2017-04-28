@@ -1,0 +1,21 @@
+{
+  "methods": [
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "groups": [
+          "SMOKE"
+        ],
+        "name": "scenario1",
+        "sign": "Flipcart.scenario1()[pri:0, instance:com.flipcart.Flipcart@7a36aefa]"
+      },
+      "dependsOn": [],
+      "startTime": 1491546267305,
+      "duration": 140,
+      "result": "skip",
+      "passPer": 0.0
+    }
+  ]
+}

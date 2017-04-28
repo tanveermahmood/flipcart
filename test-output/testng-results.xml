@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[<div style="display:block;margin-left:10px;"></div>]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18529" started-at="2017-04-07T07:09:14Z" finished-at="2017-04-07T07:09:33Z">
+    <groups>
+      <group name="SMOKE">
+        <method signature="Flipcart.scenario2()[pri:0, instance:com.flipcart.Flipcart@954b04f]" name="scenario2" class="com.flipcart.Flipcart"/>
+      </group> <!-- SMOKE -->
+    </groups>
+    <test name="Default test" duration-ms="18529" started-at="2017-04-07T07:09:14Z" finished-at="2017-04-07T07:09:33Z">
+      <class name="com.flipcart.Flipcart">
+        <test-method status="PASS" signature="scenario2()[pri:0, instance:com.flipcart.Flipcart@954b04f]" name="scenario2" duration-ms="18514" started-at="2017-04-07T12:39:14Z" finished-at="2017-04-07T12:39:33Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<div style="display:block;margin-left:10px;"></div>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- scenario2 -->
+      </class> <!-- com.flipcart.Flipcart -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
